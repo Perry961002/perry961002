@@ -5,7 +5,7 @@
 Here are some quick things about me:
 
 - 🔭 I'm a pragmatic software engineer who is paranoid about convention, consistency, and constraints.
-- 🕵️‍♀️ I used to mainly use C++ and C# for high concurrency program development, and now I am very interested in HPC and Intel OneAPI.
+- 🕵️‍♀️ I used to mainly use C++ and C# for high concurrency program development, and now I am very interested in HPC and oneAPI.
 - 🧸 I'm proud of who I am, what I have built, and what I am building.
 - 🧑‍💻 Coding is my passion.
 - 💬 I like reading and imagining things when I'm not busy.
