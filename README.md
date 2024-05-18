@@ -16,4 +16,5 @@ Here are some quick things about me:
 
 **Collect heart-warming skies🌈:**
 
-<img src=".\image\rainbow.jpg" alt="rainbow" style="zoom:30%;" align=left />
+| <img src=".\image\rainbow.jpg" alt="rainbow" width=400 height=300 align=center /> | <img src=".\image\jiguang.jpg" alt="jiguang" width=400 height=300 align=center /> |
+| ------------- | ------------- |
