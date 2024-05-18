@@ -13,3 +13,7 @@ Here are some quick things about me:
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=perry961002&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="perry961002's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perry961002&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+**Collect heart-warming skies🌈:**
+
+<img src=".\image\rainbow.jpg" alt="rainbow" style="zoom:30%;" align=left />
