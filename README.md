@@ -9,7 +9,7 @@ Here are some quick things about me:
 - 🧸 I'm proud of who I am, what I have built, and what I am building.
 - 🧑‍💻 Coding is my passion.
 - 💬 I like reading and imagining things when I'm not busy.
-- 📫 The best way to reach me is to send me an [email](Perry961002@163.com).
+- 📫 The best way to reach me is to send me an [email](mailto:Perry961002@163.com).
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=perry961002&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="perry961002's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perry961002&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
