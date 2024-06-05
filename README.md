@@ -13,3 +13,9 @@ Here are some quick things about me:
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=perry961002&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="perry961002's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perry961002&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+------
+
+I am looking for a new job in Nanjing, please feel free to contact me by email if there is a suitable position.
+
+我正在寻找在南京的新的工作机会，有合适的欢迎邮件联系我 😊
